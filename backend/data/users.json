@@ -1,0 +1,14 @@
+[
+  {
+    "id": "9651d599-89ea-4025-9b97-f1f1beb95926",
+    "username": "prasanna",
+    "password": "$2a$10$9cTGsjCFe0rTM0nz8RbwXOm6nnID1snpVS.2Yn8awV136tk/yDalq",
+    "role": "user"
+  },
+  {
+    "id": "01536183-e751-4d36-8857-6192bc52a1cb",
+    "username": "Kavitha",
+    "password": "$2a$10$TuzqwWo5jXfVscljWNvY.OQG33.lpzCzxBrkB3aqtLpiiLcA0t.AK",
+    "role": "admin"
+  }
+]
